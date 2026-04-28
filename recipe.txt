@@ -15,11 +15,11 @@ Ingredients
 2 teaspoons smoked paprika
 1 pinch black pepper
 1 teaspoon oregano
->>>>>>> origin/conflict-recipe
 4 cups vegetable broth
 4 cans black beans, cooked or canned/drained
 1 can sweetcorn
 1 can tomatoes
+
 Instructions
 ------------
 1. Heat oil in a large pot over medium-high heat. 

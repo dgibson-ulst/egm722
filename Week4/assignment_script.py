@@ -51,7 +51,6 @@ def img_display(img, ax, bands, stretch_args=None, **imshow_args):
 
     return handle, ax
 
-
 # ------------------------------------------------------------------------
 # note - rasterio's open() function works in much the same way as python's - once we open a file,
 # we have to make sure to close it. One easy way to do this in a script is by using the with statement shown
